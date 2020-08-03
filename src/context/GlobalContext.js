@@ -17,7 +17,7 @@ export const GlobalProvider = ({children}) => {
 
     async function getRecipes(){
         try {
-            const res = await axios.get('http://starlord.hackerearth.com/recipe');
+            const res = await axios.get('https://recipe111111111.herokuapp.com/recipe');
             console.log(res);
             dispatch({
                 type: 'GET_RECIPES',
