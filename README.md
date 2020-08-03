@@ -22,8 +22,8 @@ Display the list of recipes in DOM
 Show the activity of each recipe in recipe page
 
 ### API
-http://starlord.hackerearth.com/recipe  // produces blocked loading mixed content due to http
-https://recipe111111111.herokuapp.com/recipe
+* http://starlord.hackerearth.com/recipe  // produces blocked loading mixed content due to http
+* https://recipe111111111.herokuapp.com/recipe
 
 ### Author
 Aneesa
