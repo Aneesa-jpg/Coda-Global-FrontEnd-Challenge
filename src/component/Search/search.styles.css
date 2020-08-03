@@ -1,0 +1,20 @@
+.search{
+    margin: 2% 10%;
+}
+
+.icon{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+    width:350px;
+    background-color: #eeeeee;
+  }
+  input:focus {
+    border-color: black
+  }
